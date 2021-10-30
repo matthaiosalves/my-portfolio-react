@@ -11,7 +11,7 @@ function App() {
           <h1 className="section-1-heading">
             Front-End Developer
           </h1>
-          <img src="https://raw.githubusercontent.com/matthaiosalves/me/main/matheusalves.jpg" className="person-img" />
+          <img src="https://raw.githubusercontent.com/matthaiosalves/me/main/matheusalves.jpg" className="person-img" alt="a"/>
           <h3 className="person-name">Matheus Alves</h3>
           <a href="#section-3" className="section-1-btn">Projetos</a>
         </section>
@@ -270,7 +270,7 @@ function App() {
         <div className="contato">
           <div className="wrapper">
             <a href="https://api.whatsapp.com/send?phone=5561985811224&text=Ol%C3%A1%2C%20estou%20interessado%20em%20vossos%20servi%C3%A7os%3B1" >
-              <img src="zap.png"/>
+              <img src="zap.png" alt="a"/>
             </a>
           </div>
         </div>

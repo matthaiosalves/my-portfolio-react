@@ -277,8 +277,6 @@ function App() {
 
       </div>
 
-      <script src="script.js"></script>
-
     </>
   );
 

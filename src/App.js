@@ -99,7 +99,7 @@ function App() {
                 <h2 className="project-name">CSS Effect Snow</h2>
                 <h4 className="project-technologies">HTML / CSS </h4>
               </div>
-              <img src="project-1.png" className="project-img" />
+              <img src="project-1.png" className="project-img" alt="a"/>
               <a
                 href="https://matthaiosalves.github.io/Hinata/"
                 className="project-link"
@@ -113,7 +113,7 @@ function App() {
                 <h2 className="project-name">Website El Club</h2>
                 <h4 className="project-technologies">HTML / CSS </h4>
               </div>
-              <img src="project-2.png" className="project-img" />
+              <img src="project-2.png" className="project-img" alt="a"/>
               <a
                 href="https://elclubhb.netlify.app/"
                 className="project-link"
@@ -127,7 +127,7 @@ function App() {
                 <h2 className="project-name">Online library</h2>
                 <h4 className="project-technologies">HTML / CSS / JS / JQuery</h4>
               </div>
-              <img src="project-3.png" className="project-img" />
+              <img src="project-3.png" className="project-img" alt="a"/>
               <a
                 href="https://matthaiosalves.github.io/livros/"
                 className="project-link"
@@ -141,7 +141,7 @@ function App() {
                 <h2 className="project-name">CSS Effect Rain</h2>
                 <h4 className="project-technologies">HTML / CSS</h4>
               </div>
-              <img src="project-4.png" className="project-img" />
+              <img src="project-4.png" className="project-img"alt="a" />
               <a
                 href="https://matthaiosalves.github.io/chuva/"
                 className="project-link"
@@ -155,7 +155,7 @@ function App() {
                 <h2 className="project-name">CSS Effect Heart</h2>
                 <h4 className="project-technologies">HTML / CSS </h4>
               </div>
-              <img src="project-5.png" className="project-img" />
+              <img src="project-5.png" className="project-img" alt="a"/>
               <a
                 href="https://matthaiosalves.github.io/Heart/"
                 className="project-link"
@@ -169,7 +169,7 @@ function App() {
                 <h2 className="project-name">Welcome Page</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
-              <img src="project-6.png" className="project-img" />
+              <img src="project-6.png" className="project-img" alt="a"/>
               <a
                 href="https://elclubhb.netlify.app/join/index.html"
                 className="project-link"
@@ -183,7 +183,7 @@ function App() {
                 <h2 className="project-name">Call or Put</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
-              <img src="call-or-put.png" className="project-img" />
+              <img src="call-or-put.png" className="project-img" alt="a"/>
               <a
                 href="https://call-or-put.netlify.app/"
                 className="project-link"
@@ -197,7 +197,7 @@ function App() {
                 <h2 className="project-name">Jornal FA</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
-              <img src="img13.png" className="project-img" />
+              <img src="img13.png" className="project-img" alt="a" />
               <a
                 href="https://jornalfahb.blogspot.com/"
                 className="project-link"
@@ -211,7 +211,7 @@ function App() {
                 <h2 className="project-name">Bella Zen</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
-              <img src="bella-zen.png" className="project-img" />
+              <img src="bella-zen.png" className="project-img" alt="a"/>
               <a
                 href="https://bella-zen-spa.netlify.app/"
                 className="project-link"
@@ -225,7 +225,7 @@ function App() {
                 <h2 className="project-name">PodCast | UI/UX</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
-              <img src="podcast.png" className="project-img" />
+              <img src="podcast.png" className="project-img" alt="a"/>
               <a
                 href="https://matthaiosalves.github.io/RDB/"
                 className="project-link"
@@ -239,7 +239,7 @@ function App() {
                 <h2 className="project-name">Araujo Store</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
-              <img src="araujo.png" className="project-img" />
+              <img src="araujo.png" className="project-img" alt="a"/>
               <a
                 href="https://araujo-store-uniplan.netlify.app/"
                 className="project-link"
@@ -261,8 +261,8 @@ function App() {
               <i className="fab fa-instagram-square"></i>
             </a>
           </div>
-          <p className="copyright" onclick="javascript:abrirJanela('https://www.uniplandf.edu.br/', 400, 700);">
-            Desenvolvido por Matheus Alves - © Ensino Superior - UNIPLAN
+          <p className="copyright">
+            Desenvolvido por Matheus Alves
           </p>
 
         </footer>

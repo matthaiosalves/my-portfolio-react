@@ -103,7 +103,7 @@ function App() {
               <a
                 href="https://matthaiosalves.github.io/Hinata/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -117,7 +117,7 @@ function App() {
               <a
                 href="https://elclubhb.netlify.app/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -131,7 +131,7 @@ function App() {
               <a
                 href="https://matthaiosalves.github.io/livros/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -145,7 +145,7 @@ function App() {
               <a
                 href="https://matthaiosalves.github.io/chuva/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -159,7 +159,7 @@ function App() {
               <a
                 href="https://matthaiosalves.github.io/Heart/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -173,7 +173,7 @@ function App() {
               <a
                 href="https://elclubhb.netlify.app/join/index.html"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -187,7 +187,7 @@ function App() {
               <a
                 href="https://call-or-put.netlify.app/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -201,7 +201,7 @@ function App() {
               <a
                 href="https://jornalfahb.blogspot.com/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -215,7 +215,7 @@ function App() {
               <a
                 href="https://bella-zen-spa.netlify.app/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -229,7 +229,7 @@ function App() {
               <a
                 href="https://matthaiosalves.github.io/RDB/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -243,7 +243,7 @@ function App() {
               <a
                 href="https://araujo-store-uniplan.netlify.app/"
                 className="project-link"
-                target="_blank"
+                
               >Visitar</a
               >
             </div>
@@ -269,7 +269,7 @@ function App() {
 
         <div className="contato">
           <div className="wrapper">
-            <a href="https://api.whatsapp.com/send?phone=5561985811224&text=Ol%C3%A1%2C%20estou%20interessado%20em%20vossos%20servi%C3%A7os%3B1" target="_blank">
+            <a href="https://api.whatsapp.com/send?phone=5561985811224&text=Ol%C3%A1%2C%20estou%20interessado%20em%20vossos%20servi%C3%A7os%3B1" >
               <img src="zap.png" alt="Logo WhatsApp" />
             </a>
           </div>

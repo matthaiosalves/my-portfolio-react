@@ -248,6 +248,34 @@ function App() {
               >
             </div>
 
+            <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">Docsneakers</h2>
+                <h4 className="project-technologies">HTML / CSS / JS</h4>
+              </div>
+              <img src="doc.png" className="project-img" alt="Docsneakers"/>
+              <a
+                href="https://docsneakers.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
+            <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">Máfia da Batata</h2>
+                <h4 className="project-technologies">HTML / CSS / Vanilla</h4>
+              </div>
+              <img src="https://i.imgur.com/cBKujmj.gif" className="project-img" alt="a"/>
+              <a
+                href="https://mafia-da-batata.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
 
           </div>
         </section>

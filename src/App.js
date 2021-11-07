@@ -180,7 +180,7 @@ function App() {
 
             <div className="project">
               <div className="project-text">
-                <h2 className="project-name">Call or Put</h2>
+                <h2 className="project-name">Cara ou coroa</h2>
                 <h4 className="project-technologies">HTML / CSS / JS</h4>
               </div>
               <img src="call-or-put.png" className="project-img" alt="a"/>
@@ -223,11 +223,11 @@ function App() {
             <div className="project">
               <div className="project-text">
                 <h2 className="project-name">PodCast | UI/UX</h2>
-                <h4 className="project-technologies">HTML / CSS / JS</h4>
+                <h4 className="project-technologies">HTML / CSS / VanillaJs</h4>
               </div>
               <img src="podcast.png" className="project-img" alt="a"/>
               <a
-                href="https://matthaiosalves.github.io/RDB/"
+                href="https://podcast-player-rdb.netlify.app/"
                 className="project-link"
                 
               >Visitar</a

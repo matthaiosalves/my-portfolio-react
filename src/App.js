@@ -276,6 +276,20 @@ function App() {
               >
             </div>
 
+            <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">Controle Financeiro</h2>
+                <h4 className="project-technologies">Reactjs | TypeScript</h4>
+              </div>
+              <img src="https://i.imgur.com/TdPMfym.gif" className="project-img" alt="a"/>
+              <a
+                href="https://controle-de-financas.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
 
           </div>
         </section>

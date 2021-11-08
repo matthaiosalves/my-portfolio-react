@@ -94,6 +94,63 @@ function App() {
           <h1 className="section-heading section-3-heading">Meus Projetos</h1>
           <div className="projects-wrapper center">
 
+          <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">Docsneakers</h2>
+                <h4 className="project-technologies">HTML / CSS / JS</h4>
+              </div>
+              <img src="doc.png" className="project-img" alt="Docsneakers"/>
+              <a
+                href="https://docsneakers.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
+            <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">Máfia da Batata</h2>
+                <h4 className="project-technologies">HTML / CSS / Vanilla</h4>
+              </div>
+              <img src="https://i.imgur.com/cBKujmj.gif" className="project-img" alt="a"/>
+              <a
+                href="https://mafia-da-batata.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
+            <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">Controle Financeiro</h2>
+                <h4 className="project-technologies">Reactjs | TypeScript</h4>
+              </div>
+              <img src="https://i.imgur.com/TdPMfym.gif" className="project-img" alt="a"/>
+              <a
+                href="https://controle-de-financas.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
+            <div className="project">
+              <div className="project-text">
+                <h2 className="project-name">PodCast | UI/UX</h2>
+                <h4 className="project-technologies">HTML / CSS / VanillaJs</h4>
+              </div>
+              <img src="podcast.png" className="project-img" alt="a"/>
+              <a
+                href="https://podcast-player-rdb.netlify.app/"
+                className="project-link"
+                
+              >Visitar</a
+              >
+            </div>
+
+
             <div className="project">
               <div className="project-text">
                 <h2 className="project-name">CSS Effect Snow</h2>
@@ -220,19 +277,7 @@ function App() {
               >
             </div>
 
-            <div className="project">
-              <div className="project-text">
-                <h2 className="project-name">PodCast | UI/UX</h2>
-                <h4 className="project-technologies">HTML / CSS / VanillaJs</h4>
-              </div>
-              <img src="podcast.png" className="project-img" alt="a"/>
-              <a
-                href="https://podcast-player-rdb.netlify.app/"
-                className="project-link"
-                
-              >Visitar</a
-              >
-            </div>
+           
 
             <div className="project">
               <div className="project-text">
@@ -248,50 +293,10 @@ function App() {
               >
             </div>
 
-            <div className="project">
-              <div className="project-text">
-                <h2 className="project-name">Docsneakers</h2>
-                <h4 className="project-technologies">HTML / CSS / JS</h4>
-              </div>
-              <img src="doc.png" className="project-img" alt="Docsneakers"/>
-              <a
-                href="https://docsneakers.netlify.app/"
-                className="project-link"
-                
-              >Visitar</a
-              >
-            </div>
-
-            <div className="project">
-              <div className="project-text">
-                <h2 className="project-name">Máfia da Batata</h2>
-                <h4 className="project-technologies">HTML / CSS / Vanilla</h4>
-              </div>
-              <img src="https://i.imgur.com/cBKujmj.gif" className="project-img" alt="a"/>
-              <a
-                href="https://mafia-da-batata.netlify.app/"
-                className="project-link"
-                
-              >Visitar</a
-              >
-            </div>
-
-            <div className="project">
-              <div className="project-text">
-                <h2 className="project-name">Controle Financeiro</h2>
-                <h4 className="project-technologies">Reactjs | TypeScript</h4>
-              </div>
-              <img src="https://i.imgur.com/TdPMfym.gif" className="project-img" alt="a"/>
-              <a
-                href="https://controle-de-financas.netlify.app/"
-                className="project-link"
-                
-              >Visitar</a
-              >
-            </div>
-
+            
 
           </div>
+          
         </section>
 
         <footer className="section-5 center" id="section-4">

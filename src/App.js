@@ -36,6 +36,13 @@ function App() {
 
             <div className="progress-bar">
               <p className="progress-text">
+                Angular
+              </p>
+              <div className="progress-percent"></div>
+            </div>
+
+            <div className="progress-bar">
+              <p className="progress-text">
                 Vanilla
               </p>
               <div className="progress-percent"></div>
@@ -43,7 +50,14 @@ function App() {
 
             <div className="progress-bar">
               <p className="progress-text">
-                Electron
+                Next
+              </p>
+              <div className="progress-percent"></div>
+            </div>
+
+            <div className="progress-bar">
+              <p className="progress-text">
+                WordPress
               </p>
               <div className="progress-percent"></div>
             </div>
